@@ -1,7 +1,5 @@
 import openai
 
-openai.api_key = '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'
-
 prompt_recopilacion_info = """Para procesar tu pedido, necesito algunos detalles. Por favor, proporciona tu nombre completo, dirección, número de teléfono y el producto que deseas comprar."""
 
 prompt_confirmacion_almacenamiento = """Tu información ha sido almacenada de manera segura. Tu pedido ha sido registrado con éxito. Te enviaremos una confirmación a tu correo electrónico."""
